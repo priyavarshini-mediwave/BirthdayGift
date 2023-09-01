@@ -8,4 +8,4 @@ Hoover is a pseudo class.
 
 ## Gradient
 
-linear gradient() is used to give gradient background.
+linear gradient() is used to give gradient background and fade effect.
